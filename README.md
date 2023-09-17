@@ -1,3 +1,12 @@
+
+
+<iframe width="100%" height="524" src="https://www.youtube.com/embed/W1OC7Bf17F8" title="71st MISS UNIVERSE - Preliminary SWIMSUIT Competition (All 84 Delegates) | MISS UNIVERSE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
 <center><div id="s" style="display: scroll; float: none; margin: auto; overflow: auto; position: fixed; right: 0px; text-align: center; top: 0px; width: 100%; z-index: 99999;">
 <div style="background-color: #ff5000; display: block; height: 3000px; margin: auto; overflow: auto; text-align: center; width: 100%;"><span style="font-size: x-large;"><br /></span><center>
 <div style="padding: 15px;">
