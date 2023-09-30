@@ -153,7 +153,7 @@ ads by Adsterra<br />
 <iframe width="100%" height="524" src="https://www.youtube.com/embed/vfigxSvFvqg" title="4K HDR // Walking Similan Islands | Best islands in the World | Thailand 2023 - With Captions" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div class="jontor" loading="lazy">
 <script src="https://rawgit.com/rezamuhamad/rakinfo/master/sitemap.js"></script>
-<script src="https://www.xcelebgram.my.id/feeds/posts/default/?start-index=1&max-results=9999&amp;alt=json-in-script&amp;callback=rak_info_Load"></script>
+<script src="https://www.teteh-ingga.my.id/feeds/posts/default/?start-index=1&max-results=9999&amp;alt=json-in-script&amp;callback=rak_info_Load"></script>
 </div>
 <style type="text/css">.jontor{width:100%;border-collapse:collapse;text-align:left;overflow:hidden;margin:0 auto;}
 .jontor a{color:black;}
